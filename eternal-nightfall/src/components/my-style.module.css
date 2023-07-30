@@ -1,0 +1,105 @@
+.home {
+    font-family: Inknut Antiqua;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  
+    position: absolute;
+    top: 150px ;
+    left: 40%;
+  
+    background: none;
+    border: none;
+    color: black;
+    text-decoration: none;
+  }
+  
+  .home:hover {
+    color: white;
+  }
+
+  .inventory {
+    font-family: Inknut Antiqua;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  
+    position: absolute;
+    top: 250px ;
+    left: 40%;
+  
+    background: none;
+    border: none;
+    color: black;
+    text-decoration: none;
+  }
+  
+  .inventory:hover {
+    color: white;
+  }
+
+  .partyinfo {
+    font-family: Inknut Antiqua;
+    font-family: Inknut Antiqua;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  
+    position: absolute;
+    top: 350px ;
+    left: 40%;
+    background: none;
+    border: none;
+    color: black;
+    text-decoration: none;
+  }
+  
+  .partyinfo:hover {
+    color: white;
+  }
+
+  .quest {
+    font-family: Inknut Antiqua;
+    font-family: Inknut Antiqua;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  
+    position: absolute;
+    top: 450px ;
+    left: 40%;
+    background: none;
+    border: none;
+    color: black;
+    text-decoration: none;
+  }
+  
+  .quest:hover {
+    color: white;
+  }
+
+  .notes {
+    font-family: Inknut Antiqua;
+    font-family: Inknut Antiqua;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  
+    position: absolute;
+    top: 550px ;
+    left: 40%;
+    background: none;
+    border: none;
+    color: black;
+    text-decoration: none;
+  }
+  
+  .notes:hover {
+    color: white;
+  }
+  
